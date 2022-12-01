@@ -1,0 +1,367 @@
+body{
+    margin: 0px;
+    overflow-x: hidden;
+}
+.Header
+{
+    height: 111px;
+    width: 100%;
+    background-color: white;
+    padding-top: 15px;
+    border-bottom: 10px;
+}
+
+.image1
+{
+    align-items: center;
+    margin-left: 101px;
+    float: left;
+    padding-left: 30px;
+}
+.button
+{
+    background-color: #ffbc0d;
+    border: none;
+    margin-left: 440px;
+    width: 100px;
+    height: 30px;
+    
+    
+}
+.table
+{
+    height: 70px;
+    width: 700px;
+    margin-right: 60px;
+    margin-top: 20px;
+}
+.style
+{
+    margin-top: 30px;
+}
+
+.row
+{
+    margin-left: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    
+}
+.row1
+{
+    padding-left: 73px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+
+}
+.row2
+{
+    padding-left: 73px;
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.row3
+{
+    margin-left: 19px;
+    margin-top: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+    font-size: small;
+}
+.Middle1
+{
+    height: 529px;
+    width: 100%;
+    
+    background-color: white;
+
+}
+.image2
+{
+    align-items: center;
+    margin-left: 111px;
+    height: 333px;
+    width: 690px;
+    margin-top: 100px;
+}
+.button1
+{
+    background-color: #ffbc0d;
+    border: none;
+    margin-left: 822px;
+    margin-bottom: 200px;
+    height: 43px;
+    width: 200px;
+}
+
+.para1
+{
+    width: 50%;
+    padding-left: 820px;
+    margin-top: -79px;
+    float: left;
+    font-size: 30px;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+}
+.para2
+{
+    font-size: 17px;
+    font-style: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;;
+    letter-spacing: -.15px;
+    line-height: 25px;
+    margin-left: 823px;
+    margin-top: -243px;
+
+}
+.lit
+{
+    font-size: 10px;
+    font-style: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;;
+    letter-spacing: -.15px;
+    line-height: 25px;
+    margin-left: 823px;
+    margin-top: -192px;
+
+}
+.Middle2
+{
+    height: 700px;
+    width: 100%;
+    background-color: white;
+}
+.image3
+{
+    align-items: center;
+    height: 333px;
+    margin-left: 111px;
+    width: 690px;
+    margin-top: 178px;
+
+}
+.para3
+{
+    padding-left: 820px;
+    margin-top: -325px;
+    float: left;
+    font-size: 36px;
+    line-height: 36px;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+}
+.para4
+{
+    font-size: 17px;
+    font-style: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;;
+    letter-spacing: -.15px;
+    line-height: 25px;
+    margin-left: 823px;
+    margin-top: -192px;
+}
+.para5
+{
+    font-size: 10px;
+    line-height: 10px;
+
+}
+.button2
+{
+    background-color: #ffbc0d;
+    border: none;
+    margin-left: 822px;
+    margin-bottom: 200px;
+    height: 43px;
+    width: 200px;
+}
+.Middle3
+{
+    height: 700px;
+    width: 100%;
+    background-color: white;
+
+}
+.image4
+{
+    align-items: center;
+    height: 333px;
+    margin-left: 111px;
+    width: 690px;
+    margin-top: 178px;
+}
+.para6
+{
+
+    padding-left: 820px;
+    margin-top: -325px;
+    float: left;
+    font-size: 36px;
+    line-height: 36px;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+}
+.para7
+{
+    font-size: 17px;
+    font-style: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;;
+    letter-spacing: -.15px;
+    line-height: 25px;
+    margin-left: 823px;
+    margin-top: -243px;
+}
+.button3
+{
+    background-color: #ffbc0d;
+    border: none;
+    margin-left: 822px;
+    margin-bottom: 200px;
+    height: 43px;
+    width: 250px;
+}
+.Middle4
+{
+    height: 550px;
+    width: 100%;
+    background-color: white;
+
+
+}
+.image5
+{
+    align-items: center;
+    height: 333px;
+    margin-left: 111px;
+    width: 690px;
+    margin-top: 110px;
+
+}
+.button4
+{
+    background-color: #ffbc0d;
+    border: none;
+    margin-left: 822px;
+    margin-bottom: 200px;
+    height: 43px;
+    width: 200px;
+}
+.Middle5
+{
+    height: 456px;
+    width: 100%;
+    background-color: white;
+}
+.image6
+{
+    align-items: center;
+    height: 333px;
+    margin-left: 111px;
+    width: 690px;
+    margin-top: 10px;
+
+}
+.para8
+{
+    font-size: 17px;
+    font-style: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;;
+    letter-spacing: -.15px;
+    line-height: 25px;
+    margin-left: 823px;
+    margin-top: -275px;
+}
+.para9
+{
+    font-size: 10px;
+    font-style: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;;
+    letter-spacing: -.15px;
+    line-height: 25px;
+    margin-left: 823px;
+    margin-top: -10px;
+    
+
+}
+
+.button5
+{
+    background-color: #ffbc0d;
+    border: none;
+    margin-left: 822px;
+    margin-top: 50px;
+    height: 43px;
+    width: 158px;
+    font-weight: 100;
+}
+.footer
+{
+    height: 590px;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: first baseline;
+    align-items: center;
+    gap: 100px;
+}
+.footer ul{
+    list-style-type: none;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;;
+    font-weight: 50;
+    line-height: 30px;
+    margin-top: -100px;
+}
+.div1
+{
+    
+    width: 200px;
+    height: 410px;
+    margin-left: 136px;
+    
+    
+}
+.div2
+{
+    
+    width: 200px;
+    height: 410px;
+}
+.div3
+{
+
+    width: 200px;
+    height: 410px;
+}
+.div4
+{
+    width: 200px;
+    height: 410px;
+
+}
+.footer1
+{
+    height: 200px;
+    width: 100%;
+    background-color: white;
+}
+
+.facebook
+{
+    margin-left: 175px;
+}
+.twitter
+{
+    margin-left: 20px;
+}
+.youtube
+{
+    margin-left: 20px;
+}
+.instagram
+{
+    margin-left: 20px;
+}
+.png
+{
+    margin-left: 20px;
+}
+.spotify
+{
+    margin-left: 20px;
+}
+.apple
+{
+    margin-left: 366px;
+}
